@@ -1,1 +1,2 @@
 # study.com-classes
+  This is a repository containing my documents and projects that I have undertaken to complete accredited classes through Study.com. My overall opionion of Study.com as a source for actual learning is extremly low and if you are looking for a completely well rounded cs education (or any other field), I do not believe you will find it here. However, I do appreciate the potential for transfering easy credits for classes that you either have a firm foundation in, and or have other sources for study.
